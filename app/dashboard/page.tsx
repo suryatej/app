@@ -1,5 +1,7 @@
 import WaterIntakeCard from './_components/WaterIntakeCard';
 import MeditationCard from './_components/MeditationCard';
+import DailyStepsCard from './_components/DailyStepsCard';
+import SleepQualityCard from './_components/SleepQualityCard';
 
 export default function DashboardPage() {
   return (
@@ -22,21 +24,14 @@ export default function DashboardPage() {
             <WaterIntakeCard />
           </div>
 
-          {/* Placeholder cards for other features */}
-          <div className="bg-white dark:bg-gray-800 rounded-xl shadow-md p-6 min-h-[400px] flex items-center justify-center">
-            <div className="text-center text-gray-500 dark:text-gray-400">
-              <div className="text-4xl mb-2">👟</div>
-              <p>Daily Steps</p>
-              <p className="text-sm mt-1">Coming Soon</p>
-            </div>
+          {/* Daily Steps Card */}
+          <div className="lg:col-span-1">
+            <DailyStepsCard />
           </div>
 
-          <div className="bg-white dark:bg-gray-800 rounded-xl shadow-md p-6 min-h-[400px] flex items-center justify-center">
-            <div className="text-center text-gray-500 dark:text-gray-400">
-              <div className="text-4xl mb-2">😴</div>
-              <p>Sleep Quality</p>
-              <p className="text-sm mt-1">Coming Soon</p>
-            </div>
+          {/* Sleep Quality Card */}
+          <div className="lg:col-span-1">
+            <SleepQualityCard />
           </div>
 
           <div className="lg:col-span-1">
