@@ -2,12 +2,16 @@ import WaterIntakeCard from './_components/WaterIntakeCard';
 import MeditationCard from './_components/MeditationCard';
 import DailyStepsCard from './_components/DailyStepsCard';
 import SleepQualityCard from './_components/SleepQualityCard';
+import { DashboardHeader } from './_components/DashboardHeader';
 
 export default function DashboardPage() {
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
+      {/* Dashboard Header with User Menu */}
+      <DashboardHeader />
+      
       <div className="container mx-auto px-4 py-8">
-        {/* Header */}
+        {/* Page Title */}
         <div className="mb-8">
           <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">
             Health Dashboard
