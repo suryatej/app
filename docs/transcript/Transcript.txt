@@ -1,0 +1,43 @@
+HEALTH APP BRAINSTORMING SESSION
+Date: November 4, 2025
+Participants: Marco, Nicole, Surya, Sky, Lydia
+
+MARCO: Let's define our core features. We need step tracking, sleep monitoring, meditation tracker, water intake, and sitting reminders.
+
+NICOLE: For UX, I suggest a dashboard with daily progress circles. Simple tap to log water, meditation timer integration, and gentle push notifications for movement breaks.
+
+SURYA: Tech-wise, we'll need HealthKit integration for steps and sleep data. Core Motion for activity detection. Local notifications for reminders every 30-60 minutes of inactivity.
+
+SKY: From a health perspective, aim for 8,000-10,000 steps daily, 7-9 hours sleep, 8 glasses of water, and movement breaks every hour. Include brief meditation sessions - even 5 minutes helps.
+
+LYDIA: Target health-conscious millennials and Gen Z. Key messaging: "Your wellness companion in one app." Focus on habit building, not just tracking.
+
+NICOLE: We need gamification - streaks, badges, weekly challenges. But keep it motivational, not overwhelming.
+
+MARCO: Great point on gamification. Let's expand on that. What specific mechanics are we thinking?
+
+NICOLE: I'm envisioning a point system where users earn "Wellness Points" for completing daily goals. Steps, water intake, sleep quality, meditation sessions - each contributes points.
+
+LYDIA: Love it! We could have achievement levels - "Wellness Warrior," "Hydration Hero," "Sleep Champion." Each level unlocks new features or customization options.
+
+SKY: From a health standpoint, we should reward consistency over perfection. A 7-day streak should be more valuable than one perfect day followed by missed days.
+
+SURYA: Technically, we could implement social features too - friend challenges, leaderboards, sharing achievements. But privacy-first - users opt into social features.
+
+NICOLE: Yes! And seasonal challenges - "Summer Step Challenge," "Mindful March." Time-limited events keep engagement high.
+
+MARCO: What about virtual rewards? Maybe users earn gems or coins to "buy" app themes, meditation backgrounds, or unlock premium content temporarily.
+
+LYDIA: That's smart - gives free users a taste of premium features as rewards. Could drive conversions while keeping people engaged.
+
+SKY: Just ensure the gamification supports healthy behaviors. No penalties for rest days, and achievements should celebrate progress, not just perfect adherence.
+
+SURYA: MVP timeline: 3 months. Start with step tracking and water logging, then add sleep and meditation features.
+
+MARCO: Agreed. Let's prioritize core tracking first, then enhance with smart reminders and insights.
+
+SKY: Include educational tips - why movement matters, hydration benefits, sleep hygiene basics.
+
+LYDIA: Launch strategy: App Store optimization, health influencer partnerships, free trial with premium analytics.
+
+MARCO: Next steps: Nicole creates wireframes, Surya researches HealthKit APIs, Sky drafts health content guidelines.
